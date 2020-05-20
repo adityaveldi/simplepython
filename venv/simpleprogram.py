@@ -1,1 +1,2 @@
-print("Om Namhashivaya")
+name=input("Enter name")
+print("Your name is ", name)
