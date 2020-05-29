@@ -1,4 +1,4 @@
-# we will see how to take input from user.
+# we will see how to take input from user using input()
 name=input("Enter your name ")
 # to ristrict the user to specific data we do as shown below.
 age=int(input("Enter your age"))
