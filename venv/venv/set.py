@@ -24,3 +24,4 @@ set=set.union(set2)
 print(set)
 set=set.intersection(set2)
 print(set)
+#some more functions we can implement
