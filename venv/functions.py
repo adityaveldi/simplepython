@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 c=[1,2,3,4]
-print(c)
+print('guys')
 array = np.array(c)
 arr= array
 print(arr)
