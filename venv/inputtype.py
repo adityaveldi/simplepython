@@ -1,4 +1,4 @@
-# here we see how to know the class of the variable
+# here we see how to know the class of the variable using dtype()
 # initialize the variable
 #suppose the variable be dtype
 dtype=21
