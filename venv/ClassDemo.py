@@ -1,12 +1,12 @@
 # demo for using classes and using constructors
-class myclass:
+class MyClass:
     def __init__(self,name,age):
         self.name=name
         self.age=age
     def display(self):
         print('Hey welcome',self.name)
 
-p1=myclass('aditya',20)
+p1=MyClass('aditya',20)
 print(p1.name)
 print(p1.age)
 # printing using a method in myclass
