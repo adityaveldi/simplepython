@@ -1,11 +1,11 @@
-num=int(input('enter no of values u want to enter'))
+num=int(input('enter no of values you want to enter'))
 print('enter',num,'values')
 list=list()
 for x in range(num):
     val=input()
     list.append(val)
 
-key=input('enter the value u want to search:')
+key=input('enter the value you want to search:')
 boolean=False
 for x in list:
     if(x==key):
